@@ -3,15 +3,13 @@
 
 [Join our discord!](https://discord.gg/5jdpsZyDa7)
 
-<h2/>
-<h1 align="center">Active 1.21.10 Repos<h1/>
-  <h3>
-    
-- [V5Chattriggers](https://github.com/V5-Client/V5) - Main client and module.
-    
-- [V5Mod](https://github.com/V5-Client/V5Mod) - V5 Companion Mod written in Kotlin 
+## Repositories
 
-- [Swift](https://github.com/V5-Client/Swift) - Pathfinder 
+V5 is split across two repositories:
 
-- [V5Site](https://github.com/V5-Client/V5Site) - Documentation https://rdbt.top/
+- **Fabric mod (V5Loader):** https://github.com/V5-Client/V5Loader  
+  Contains the technical client internals (rendering, pathfinding, ChatTriggers JavaScript engine).
+- **JavaScript module (V5):** https://github.com/V5-Client/V5  
+  Contains macros/scripts used by the client.
+
 </h3>
